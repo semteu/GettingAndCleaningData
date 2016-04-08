@@ -6,6 +6,7 @@ The purpose of this project is to get, clean and create a tidy set of wearable c
 * README.md: file you are reading right now. It gives a short explanation of the other file contained in the repository and explains the analysis script.
 * CodeBook.md: codebook that describes variables of the tidy dataset constructed.
 * run_analysis.R: script that performs the analysis and the transformations.
+* tidy1.txt: The first tidy data set constructed by *run_analysis.R* script
 
 
 ## 2. run_analysis.R 
